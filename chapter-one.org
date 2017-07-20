@@ -1,0 +1,9 @@
+#+TITLE: NLP - A Paninian Perspective : Chapter One
+#+AUTHOR: KW
+
+
+* two principal head categories
+
+  - Nominals
+  - Verbals
+
